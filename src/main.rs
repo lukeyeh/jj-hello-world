@@ -1,5 +1,7 @@
 fn main() {
+    // calls hello
     hello();
+    // calls goodbye
     goodbye();
 }
 
