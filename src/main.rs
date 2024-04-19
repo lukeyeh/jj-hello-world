@@ -3,6 +3,7 @@ fn main() {
     hello();
     // calls goodbye
     goodbye();
+    // exits function!
 }
 
 // Prints hello world.
