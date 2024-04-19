@@ -24,3 +24,6 @@ fn minus(a: i32, b: i32) -> i32 {
     b - a
 }
 
+fn eat_cheese() {
+
+}
