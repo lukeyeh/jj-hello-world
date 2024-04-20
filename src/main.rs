@@ -6,6 +6,7 @@ fn main() {
     // exits function!
 
     // 4-way merge here
+    // more stuff on top
 }
 
 // Prints hello world.
