@@ -4,6 +4,8 @@ fn main() {
     // calls goodbye
     goodbye();
     // exits function!
+
+    // 4-way merge here
 }
 
 // Prints hello world.
